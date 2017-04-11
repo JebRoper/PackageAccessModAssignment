@@ -9,9 +9,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //      Foo foo = new Foo();
-        //    Foo2 foo2 = new Foo2();
-        //  Bar bar = new Bar();
+        Foo foo = new Foo();
+        Foo2 foo2 = new Foo2();
+        Bar bar = new Bar();
         Bar2 bar2 = new Bar2();
 
 
